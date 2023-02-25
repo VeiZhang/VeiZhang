@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 见到你，很高兴！🌱
 
 [![VeiZhang's github stats](https://github-readme-stats.vercel.app/api?username=VeiZhang&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeiZhang&langs_count=8&hide=HTML&show_icons=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeiZhang&langs_count=10&hide=HTML&show_icons=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 https://github.com/wasabeef/wasabeef
